@@ -243,3 +243,7 @@ nav > img {
   background-color: #8873ef;
   cursor: pointer;
 }
+
+button:hover {
+  cursor: pointer;
+}
